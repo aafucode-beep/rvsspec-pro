@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "title": "RVS 规格书生成器",
+    "home": "产品列表",
+    "new": "新建产品",
+    "settings": "设置"
+  },
+  "home": {
+    "title": "产品规格书管理",
+    "empty": "还没有产品，点击「新建产品」开始创建",
+    "createBtn": "新建产品",
+    "edit": "编辑",
+    "duplicate": "复制",
+    "delete": "删除",
+    "confirmDelete": "确定删除这个产品吗？",
+    "updatedAt": "更新于"
+  },
+  "editor": {
+    "back": "返回列表",
+    "exportPdf": "导出 PDF",
+    "print": "打印",
+    "save": "保存",
+    "saved": "已保存",
+    "saving": "保存中...",
+    "uploadProductImage": "点击上传产品图片",
+    "uploadDiagram": "点击上传产品线图",
+    "sizeHint": "建议尺寸: 900×900px",
+    "sizeHintDiagram": "建议尺寸: 800×600px",
+    "accessory": "配件图",
+    "curve": "配光曲线",
+    "changeLogo": "点击更换 LOGO",
+    "placeholder": "输入{field}",
+    "exporting": "正在生成 PDF..."
+  },
+  "params": {
+    "cutOutSize": "开孔尺寸",
+    "ceilingThickness": "适用天花厚度",
+    "power": "功率",
+    "luminousFlux": "光通量",
+    "beamAngle": "光束角",
+    "beamPattern": "光斑风格",
+    "cct": "色温",
+    "cri": "显色指数Ra",
+    "tlciRf": "色彩保真度Rf",
+    "tlciRg": "色彩饱和度Rg",
+    "sdcm": "色容差SDCM",
+    "control": "控制方式",
+    "appearanceColor": "外观颜色",
+    "reflectorColor": "反射器颜色",
+    "inputSignal": "输入信号",
+    "ipRating": "防护等级",
+    "material": "材质",
+    "additionalInfo": "补充信息"
+  },
+  "footer": {
+    "website": "网址",
+    "company": "公司",
+    "email": "邮箱",
+    "address": "地址",
+    "rights": "版权声明",
+    "version": "版本"
+  },
+  "toast": {
+    "imageTooLarge": "图片大小不能超过 5MB",
+    "imageTypeError": "请上传图片文件",
+    "imageProcessError": "图片处理失败，请重试",
+    "uploadSuccess": "上传成功",
+    "saveSuccess": "保存成功",
+    "deleteSuccess": "删除成功",
+    "duplicateSuccess": "复制成功",
+    "exportSuccess": "PDF 导出成功",
+    "exportError": "导出失败，请重试"
+  },
+  "common": {
+    "confirm": "确认",
+    "cancel": "取消",
+    "close": "关闭",
+    "loading": "加载中..."
+  }
+}
